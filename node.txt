@@ -1,5 +1,5 @@
 临时线路
-安卓专用 给6月1日的用户用   
+安卓专用 给6月1日的用户用  879982 前6  879992 后4  三分
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@sg.stablize.top:443?tfo=1#%E4%BA%94%E4%B8%80%E5%BF%AB%E4%B9%90
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@usa.stablize.top:443?tfo=1#%E6%AF%8F%E6%97%A5%E8%BF%9E%E6%8E%A5%E5%89%8D%E8%AF%B7%E5%8F%B3%EF%BC%88%E5%B7%A6%EF%BC%89%E6%BB%91
 trojan://10f94506-9bf9-4dbb-9542-3ff13893b190@de.stablize.top:443?tfo=1#%E6%9C%80%E4%B8%8A%E6%96%B9%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E2%80%9C%E6%9B%B4%E6%96%B0%E2%80%9D
@@ -10,6 +10,7 @@ trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@uk.stablize.top:443?tfo=1#%E4%B8%A
 trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@sg.stablize.top:443?tfo=1#%E5%8D%95%E7%8B%AC%E4%BF%9D%E5%AD%98%E5%8A%9E%E5%85%AC%E6%95%99%E7%A8%8B%E5%8F%91%E8%B4%A7%E5%86%85%E5%AE%B9
 trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@sg.stablize.top:443?tfo=1#%E6%B8%85%E9%99%A4%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E4%BF%9D%E9%9A%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8
 trojan://9014ea56-3fec-43d8-bed6-af7bcb5e2cb3@usa.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
+1元1000G  18607004763
 trojan://2c7cccd3-8de4-4f47-8fd6-b787e42ca4a2@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20004
 trojan://2c7cccd3-8de4-4f47-8fd6-b787e42ca4a2@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20005
 trojan://2c7cccd3-8de4-4f47-8fd6-b787e42ca4a2@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20003
