@@ -1,25 +1,24 @@
 临时线路
-9877121  7866782  3788223  给7.1日临时用 2元
-trojan://33988e93-4cc4-42ab-bd89-8a787df667eb@ap.stablize.top:443?tfo=1#ios%E5%8F%B3%E6%BB%91%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E6%9B%B4%E6%96%B0
-trojan://33988e93-4cc4-42ab-bd89-8a787df667eb@uk.stablize.top:443?tfo=1#%E5%AE%89%E5%8D%93%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://c545721c-1421-4a87-8e16-a499ea0bd628@sg.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
-trojan://c545721c-1421-4a87-8e16-a499ea0bd628@sg.stablize.top:443?tfo=1#%E5%8F%AF%E8%BF%9E%E6%8E%A5%E7%9D%80%E5%8F%AF%E7%94%A8%E7%BA%BF%E8%B7%AF%E6%9B%B4%E6%96%B0
-trojan://c545721c-1421-4a87-8e16-a499ea0bd628@usa.stablize.top:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
-trojan://6b200fe9-7060-4fc0-95b6-13c510f8a8fe@ap.stablize.top:443?tfo=1#%E8%AF%B7%E6%9C%88%E5%BA%95%E5%89%8D%E8%81%94%E7%B3%BB%E5%AE%A2%E6%9C%8D%E4%BC%98%E6%83%A0%E7%BB%AD%E8%B4%B9
-trojan://6b200fe9-7060-4fc0-95b6-13c510f8a8fe@ap.stablize.top:443?tfo=1#http://985.so/bmgac%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8E
-trojan://6b200fe9-7060-4fc0-95b6-13c510f8a8fe@kr.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
-trojan://6b200fe9-7060-4fc0-95b6-13c510f8a8fe@kr.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
-18018722513@163.com----2432411zhy  7.1手机 18018992277@163.com----woaita1314  7.1手机2· found
-trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E9%A6%99%E6%B8%AF%20-%20005
-trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E5%8F%B0%E6%B9%BE%20-%20001
-trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20004
-trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20003
-trojan://a247bcb3-4a31-4049-86c0-08cd1b92bd0b@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E7%BE%8E%E5%9B%BD%20-%20001
-trojan://f4b69ce7-b09c-4c14-91c1-674e55f7ae44@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#fscloud%20%E9%A6%99%E6%B8%AF%20-%20002
-9967812@qq.com 2.93t  给7.1clash电脑用 和7.1临时用  
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWNoYXRncHQiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiNDExMzMzYjUtNjQ2ZC0zNDM4LTk5ZGYtNjNmM2M0YTQ5MzBmIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQiLA0KICAiYWRkIjogIjE4LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjE4IiwNCiAgImlkIjogIjQxMTMzM2I1LTY0NmQtMzQzOC05OWRmLTYzZjNjNGE0OTMwZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvWNoYXRncHQyIiwNCiAgImFkZCI6ICIxOS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIxOSIsDQogICJpZCI6ICI0MTEzMzNiNS02NDZkLTM0MzgtOTlkZi02M2YzYzRhNDkzMGYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQiLA0KICAiYWRkIjogIjIwLndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjIwIiwNCiAgImlkIjogIjQxMTMzM2I1LTY0NmQtMzQzOC05OWRmLTYzZjNjNGE0OTMwZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWPsOa5vmNoYXRncHQyIiwNCiAgImFkZCI6ICIyMS53b2dnMS50b3AiLA0KICAicG9ydCI6ICIxMTIyMSIsDQogICJpZCI6ICI0MTEzMzNiNS02NDZkLTM0MzgtOTlkZi02M2YzYzRhNDkzMGYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
+3个两元，4677453，2745674，6725664给8.1临时用
+trojan://31231f04-d5b5-44bf-9c0f-ef98e835970d@sg.stablize.top:443?tfo=1#ios%E5%8F%B3%E6%BB%91%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E6%9B%B4%E6%96%B0
+trojan://31231f04-d5b5-44bf-9c0f-ef98e835970d@usa.stablize.top:443?tfo=1#%E5%AE%89%E5%8D%93%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@de.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
+trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@jp.stablize.top:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
+trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@ca.stablize.top:443?tfo=1#%E8%AF%B7%E6%9C%88%E5%BA%95%E5%89%8D%E8%81%94%E7%B3%BB%E5%AE%A2%E6%9C%8D%E4%BC%98%E6%83%A0%E7%BB%AD%E8%B4%B9
+trojan://98efe376-9348-4235-9043-b634f1ec9064@ap.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
+trojan://98efe376-9348-4235-9043-b634f1ec9064@uk.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
+trojan://98efe376-9348-4235-9043-b634f1ec9064@sg.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
+jhmioaz4vgw0dv@163.com，jlwv8yfcni8wf0j@163.com2个found给8.1临时用
+trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20002
+trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20001
+trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20001
+trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20001
+trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20-%20001
+trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20002
+2个VOV,15081993968@163.com，18019033083@163.com 给8.1临时用
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt1
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt2
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt1
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt1
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt2
