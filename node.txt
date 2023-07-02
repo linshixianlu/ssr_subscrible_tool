@@ -22,3 +22,5 @@ trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovotw.ovogreat.com:443?allowInsecu
 trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
 trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt1
 trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt2
+
+
