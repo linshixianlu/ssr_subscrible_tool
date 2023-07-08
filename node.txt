@@ -2,7 +2,7 @@
 3个两元，4677453，2745674，6725664给8.1临时用
 trojan://31231f04-d5b5-44bf-9c0f-ef98e835970d@sg.stablize.top:443?tfo=1#ios%E5%8F%B3%E6%BB%91%E8%AE%A2%E9%98%85%E9%80%89%E6%8B%A9%E6%9B%B4%E6%96%B0
 trojan://31231f04-d5b5-44bf-9c0f-ef98e835970d@usa.stablize.top:443?tfo=1#%E5%AE%89%E5%8D%93%E7%82%B9%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
-trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@de.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
+trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@sg.stablize.top:443?tfo=1#%E6%96%AD%E5%BC%80%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85%E5%A4%B1%E8%B4%A5%E7%9A%84
 trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@jp.stablize.top:443?tfo=1#%E4%B8%AA%E5%88%AB%E7%BA%BF%E8%B7%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E8%87%AA%E8%A1%8C%E6%9B%B4%E6%8D%A2
 trojan://a786b45f-8508-40fd-94ab-7036aa5ce19b@ca.stablize.top:443?tfo=1#%E8%AF%B7%E6%9C%88%E5%BA%95%E5%89%8D%E8%81%94%E7%B3%BB%E5%AE%A2%E6%9C%8D%E4%BC%98%E6%83%A0%E7%BB%AD%E8%B4%B9
 trojan://98efe376-9348-4235-9043-b634f1ec9064@ap.stablize.top:443?tfo=1#%E8%81%94%E7%BB%9C%E8%AF%B4%E6%98%8Ehttp://985.so/bmgac
@@ -16,12 +16,12 @@ trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscsg.fscloud123456789.com:443?all
 trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20-%20001
 trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20002
 2个VOV,15081993968@163.com，18019033083@163.com 给8.1临时用
-trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt1
-trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovosg.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt2
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt1
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt1
 trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt1
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt2
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt2
 trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
-trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt1
-trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovous.ovogreat.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20chatgpt2
 极简clash电脑和8.1临时和8.1mac共一个账号，112153942@qq.com
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWdwdDEiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiYTgwYzYyZTctZDVmOC0zNWNlLWI4ZGUtMjdjZGEyZmE2ZDZmIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWdwdDIiLA0KICAiYWRkIjogIjE3LndvZ2cxLnRvcCIsDQogICJwb3J0IjogIjExMjE3IiwNCiAgImlkIjogImE4MGM2MmU3LWQ1ZjgtMzVjZS1iOGRlLTI3Y2RhMmZhNmQ2ZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
