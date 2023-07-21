@@ -16,12 +16,12 @@ trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscsg.fscloud123456789.com:443?all
 trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20-%20001
 trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20002
 2个VOV,15081993968@163.com，18019033083@163.com 给8.1临时用
-trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt1
-trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt1
-trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt1
-trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovohk.ovogreat.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt2
-trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovojp.ovogreat.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt2
-trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovotw.ovogreat.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt1
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovosg.ovonice.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt1
+trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt1
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovojp.ovonice.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20chatgpt2
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovosg.ovonice.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt2
+trojan://d5f3d069-0fb4-4a2a-be25-2e118db1a6ff@ovotw.ovonice.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20chatgpt2
 极简clash电脑和8.1临时和8.1mac共一个账号，112153942@qq.com
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWdwdDEiLA0KICAiYWRkIjogIjMud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDMiLA0KICAiaWQiOiAiYTgwYzYyZTctZDVmOC0zNWNlLWI4ZGUtMjdjZGEyZmE2ZDZmIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoWdwdDIiLA0KICAiYWRkIjogIjcud29nZzEudG9wIiwNCiAgInBvcnQiOiAiMTEyMDciLA0KICAiaWQiOiAiYTgwYzYyZTctZDVmOC0zNWNlLWI4ZGUtMjdjZGEyZmE2ZDZmIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
