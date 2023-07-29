@@ -9,12 +9,12 @@ trojan://98efe376-9348-4235-9043-b634f1ec9064@ap.stablize.top:443?tfo=1#%E8%81%9
 trojan://98efe376-9348-4235-9043-b634f1ec9064@uk.stablize.top:443?tfo=1#%E4%B9%9F%E5%8F%AF%E5%8A%A0Q%E5%8F%B7112025739%E5%8D%8F%E5%8A%A9
 trojan://98efe376-9348-4235-9043-b634f1ec9064@sg.stablize.top:443?tfo=1#%E6%84%9F%E8%B0%A2%E6%82%A8%E7%9A%84%E6%94%AF%E6%8C%81%E5%92%8C%E5%8E%9A%E7%88%B1
 jhmioaz4vgw0dv@163.com，jlwv8yfcni8wf0j@163.com2个found给8.1临时用
-trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fschk.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20-%20002
-trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fscjp.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20001
-trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20001
-trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20001
-trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscus.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E7%BE%8E%E5%9B%BD%20-%20001
-trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fsctw.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20002
+trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fscsg.fscloud123456789.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20003
+trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fsctw.fscloud12345678901.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20001
+trojan://961e87d8-0020-4ccb-8b46-bd00dec02c45@fsctw.fscloud12345678901.com:443?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE%20-%20002
+trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscjp.fscloud12345678901.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20004
+trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fscjp.fscloud12345678901.com:443?allowInsecure=1&tfo=1#%E6%97%A5%E6%9C%AC%20-%20005
+trojan://9cbc88b5-162d-40ef-b139-9dac20db47fe@fsckr.fscloud12345678901.com:443?allowInsecure=1&tfo=1#%E9%9F%A9%E5%9B%BD%20-%20003
 2个VOV,15081993968@163.com，18019033083@163.com 给8.1临时用
 trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovohk.ovonice.com:443?allowInsecure=1&tfo=1#%E9%A6%99%E6%B8%AF%20chatgpt1
 trojan://fe57c989-ff10-42e9-a378-168c317026a8@ovosg.ovonice.com:443?allowInsecure=1&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20chatgpt1
